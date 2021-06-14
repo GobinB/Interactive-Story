@@ -1,5 +1,5 @@
 
-# Description: creating a interactive stories using the random, pointers and arrays. 
+# Description: creating a interactive stories using random, pointers and arrays. 
 
 
 
