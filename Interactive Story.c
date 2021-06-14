@@ -2,8 +2,6 @@
 # Description: creating a interactive stories using random, pointers and arrays. 
 
 
-
-
 #include <stdio.h> 
 #include <stdlib.h> 
 #include<time.h>
